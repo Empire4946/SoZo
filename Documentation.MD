@@ -8,7 +8,6 @@ If you did NOT do the above, you will get kicked or BANNED.
 so I suggest doing the above before using my script.
 
 The anti-cheat itself is very annoying, but bypasses can be used and yes
-Tested Executors:
+Suggested Executors:
 1. Synapse-X
-2. Krnl
-3. Prob Script-Ware
+2. Script-Ware
