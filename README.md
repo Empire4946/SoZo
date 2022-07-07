@@ -8,6 +8,9 @@
 4. Biodegradable
 5. Follows the Three R's (Reuse, Reduce, Recycle)
 
+# MAKE SURE TO DO THIS IF YOU ARE GETTING CRASHED!
+https://user-images.githubusercontent.com/104152235/177802852-4a8855f2-83c0-4dd2-bf84-98e5c83df7eb.mp4
+
 # Loadstring
 ```lua
 --[[
@@ -42,6 +45,6 @@ hookfunction(game.Stats.GetTotalMemoryUsageMb, function() return math.random(395
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Empire4946/SoZo/main/SoZo/script.txt",true))()
 ```
 
-# UI: (For you Only)
+# Showcase
 
 ![image](https://user-images.githubusercontent.com/104152235/177757911-9f8981fb-d92a-44c2-ba19-277517ced3d4.png)
