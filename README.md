@@ -1,5 +1,5 @@
 # So Zo, We need to talk.
-*SoZo is the best Undetectable and Stream Proof Script for ZO.*
+*SoZo is the best Undetectable and Stream Proof Script for almost all games.*
 
 # We provide you the best script out there.
 1. Drawing UI Lib
