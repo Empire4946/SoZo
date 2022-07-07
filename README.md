@@ -8,6 +8,9 @@
 4. Biodegradable
 5. Follows the Three R's (Reuse, Reduce, Recycle)
 
+# Documentation
+https://github.com/Empire4946/SoZo/blob/main/Documentation.MD
+
 # MAKE SURE TO DO THIS IF YOU ARE GETTING CRASHED!
 https://user-images.githubusercontent.com/104152235/177802852-4a8855f2-83c0-4dd2-bf84-98e5c83df7eb.mp4
 
